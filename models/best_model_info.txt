@@ -1,0 +1,5 @@
+Best Model Name: Multinomial Naive Bayes
+F1-Score: 0.8609
+Precision: 1.0000
+Recall: 0.7557
+Accuracy: 0.9691
